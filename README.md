@@ -1,4 +1,4 @@
-# Readme# 💫 About Me:
+# ReadMe# 💫 About Me:
 Estoy finalizando mis estudios el la UTN San Rafael, en la tecnicatura de programación, ya casi finalizando.<br><br>Mas que colaborar, busco seguir aprendiendo ya que es muy nuevo para mi el mundo de la programación. <br><br>Mi interes esta en lo que refiere a UX/UI, Frontend en HTML, Python, Java,  entre otras<br><br>Uno nunca deja de aprende por eso estoy comenzando un curso de UX/UI y sigo aprendiendo todo lo referido al frontend.<br><br>Estoy libre a las consultas para poder formar parte de cursos en lo que refiere a la programación.
 
 
