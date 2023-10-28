@@ -1,8 +1,10 @@
-# ReadMe# 💫 About Me:
+![https://concepto.de/lenguaje-de-programacion/]()
+
+# ReadMe simp ("bim.227")
+# 💫 About Me:
 Estoy finalizando mis estudios el la UTN San Rafael, en la tecnicatura de programación, ya casi finalizando.<br><br>Mas que colaborar, busco seguir aprendiendo ya que es muy nuevo para mi el mundo de la programación. <br><br>Mi interes esta en lo que refiere a UX/UI, Frontend, HTML, Python, Java,  entre otras...<br><br>Uno nunca deja de aprende por eso estoy comenzando un curso de UX/UI y sigo aprendiendo todo lo referido al frontend.<br><br>Estoy libre a las consultas para poder formar parte de cursos en lo que refiere a la programación.
 
-
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Andrew22.22)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andres-ramirez-herrera-631b91167/) 
 
@@ -14,10 +16,10 @@ Estoy finalizando mis estudios el la UTN San Rafael, en la tecnicatura de progra
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AndresRH22&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AndresRH22&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AndresRH22&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ---
